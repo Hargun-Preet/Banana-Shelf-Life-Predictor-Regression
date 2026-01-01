@@ -8,9 +8,9 @@
 
 ## 📖 Overview
 
-Food waste is a critical global issue, with significant losses occurring in the logistics chain. [cite_start]Traditional fruit ripeness detection often relies on simple classification (e.g., "Ripe" vs. "Rotten"), which fails to provide the granular data needed for dynamic supply chain management[cite: 21, 25].
+Food waste is a critical global issue, with significant losses occurring in the logistics chain. [cite_start]Traditional fruit ripeness detection often relies on simple classification (e.g., "Ripe" vs. "Rotten"), which fails to provide the granular data needed for dynamic supply chain management.
 
-This project introduces a **Time-Series Regression Framework** to predict the exact **remaining shelf-life (in days)** of bananas. [cite_start]Unlike simple single-feature models, our approach utilizes a robust multi-feature vector derived from a custom dataset to handle the ambiguity between ripening and rotting visual signals[cite: 10, 11].
+This project introduces a **Time-Series Regression Framework** to predict the exact **remaining shelf-life (in days)** of bananas. Unlike simple single-feature models, our approach utilizes a robust multi-feature vector derived from a custom dataset to handle the ambiguity between ripening and rotting visual signals.
 
 ---
 
